@@ -45,4 +45,4 @@ FROM (
             customer_id
     ) AS raw_rfm
 ) AS rfm_scores  
-ORDER BY `rfm_scores`.`customer_id` ASC
+ORDER BY CAST(`rfm_scores`.`customer_id` AS UNSIGNED) ASC;
