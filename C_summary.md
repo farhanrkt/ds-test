@@ -1,0 +1,3 @@
+Berdasarkan analisis, target untuk menjaga tingkat gagal bayar di bawah 5% selalu terpenuhi. Tingkat gagal bayar maksimal untuk keseluruhan populasi tes hanya mencapai 1.25%, jauh di bawah ambang batas risiko 5%.
+
+Oleh karena itu, tidak ada cut-off score spesifik yang diperlukan untuk memenuhi target ini. Secara teknis, semua aplikasi bisa disetujui tanpa melanggar batas risiko 5%. Kalibrasi model yang baik, seperti yang ditunjukkan oleh kurva kalibrasi, juga mendukung keandalan prediksi probabilitas ini.
